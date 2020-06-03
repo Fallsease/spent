@@ -1,0 +1,8 @@
+[package]
+name = "spent"
+version = "0.1.0"
+authors = ["Tejas Narayan <fallsease@aol.com>"]
+edition = "2018"
+
+[dependencies]
+exitcode = "1.1.2"

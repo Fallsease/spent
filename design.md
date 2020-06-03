@@ -90,5 +90,3 @@ Note that editing any transaction could end up changing the balance, and so the 
 OPTIONS:
 - `spent edit --date NEWDATE CATEGORY/OLDDATE` allows you to change the date. It will do a simple file rename.
 - `spent mv OLDCATEGORY/DATE NEWCATEGORY/` allows you to change the category. 
-
-
